@@ -12,9 +12,11 @@ An interactive Python/Dash dashboard for exploratory analysis of stocks and cryp
 - **Correlation Analysis** — static correlation heatmap across all selected assets, plus a rolling 90-day correlation view between any two assets, showing how relationships shift over time (e.g. crypto vs. equities during market stress)
 - **Risk & Return Stats** — annualized return, annualized volatility, Sharpe ratio, skew, and excess kurtosis per asset, plus drawdown charts and return distribution histograms
 
-## Screenshot
+## Screenshots
 
-*(Add a screenshot here — see "Adding a screenshot" below)*
+![Price & Moving Averages](screenshot1.png)
+
+![Correlation Analysis](screenshot2.png)
 
 ## Tech Stack
 
@@ -70,13 +72,6 @@ Then open **http://127.0.0.1:8050** in your browser.
 ├── requirements.txt     # Python dependencies
 └── README.md
 ```
-
-## Possible Extensions
-
-- Add a risk-free rate input for a proper Sharpe ratio
-- Support portfolio-level analysis (weighted combinations of assets)
-- Add VaR (Value at Risk) / CVaR calculations
-- Deploy to a hosting service (e.g. Render, Railway) for a live public demo
 
 ## License
 
