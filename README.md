@@ -14,9 +14,9 @@ An interactive Python/Dash dashboard for exploratory analysis of stocks and cryp
 
 ## Screenshots
 
-![Price & Moving Averages](screenshot1.png)
+![Price & Moving Averages](Screenshot1.png)
 
-![Correlation Analysis](screenshot2.png)
+![Correlation Analysis](Screenshot2.png)
 
 ## Tech Stack
 
